@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Shriram!
 
-<!--
-**Shriram-i/Shriram-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a passionate and driven **3rd-year Computer Science Engineering student** at **AJ Institute of Engineering and Technology**.  
+💡 I love combining **software development** with **electronics and hardware systems** to build innovative, real-world solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Technologies
+
+### 💻 Programming Languages
+- HTML, CSS, JavaScript
+- C, C++
+- Node.js
+
+### 🌐 Web & UI/UX
+- Bootstrap
+- WordPress
+- Responsive Design
+
+### 🛠️ Tools & IDEs
+- Visual Studio
+- Eclipse
+- Git & GitHub
+
+---
+
+## 🚀 What Drives Me
+
+My journey is defined by:
+- A **strong foundation in software development**
+- A deep curiosity for **hardware systems**
+- A passion to **solve real-world problems** through **interdisciplinary innovation**
+
+---
+
+## 📫 Let’s Connect!
+
+📧 Email: shriram2004i@gmail.com 
+🔗 LinkedIn: [Shri Ram](http://www.linkedin.com/in/shri-ram-2004i)  
+📱 Phone: +91 93809 81939
+
+---
+
+⭐️ *Thanks for visiting my GitHub profile! Feel free to check out my repositories and projects. I'm always open to collaboration and learning opportunities!*
