@@ -40,7 +40,7 @@ My journey is defined by:
 ## 📫 Let’s Connect!
 
 📧 Email: shriram2004i@gmail.com  
-🔗 LinkedIn: [Shri Ram]((http://www.linkedin.com/in/shri-ram-2004i))  
+🔗 LinkedIn: [Shri Ram](http://www.linkedin.com/in/shri-ram-2004i)
 📱 Phone: +91 93809 81939
 
 ---
